@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+openai==0.28.0
+faiss-cpu
+numpy
+sentence-transformers
+qdrant-client
+cohere
+streamlit
+watchdog
+python_weather
+boto3
